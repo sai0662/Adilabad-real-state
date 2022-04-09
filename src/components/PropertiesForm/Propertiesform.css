@@ -1,0 +1,28 @@
+.properties{
+    padding: 40px;
+    background-color: aliceblue;
+}
+.properties h1{
+    padding: 50px;
+    font-size: xxx-large;
+}
+.drop-menu{
+    display: flex;
+    padding: 60px;
+    border: 2px black;
+    background-color:white;
+    
+}
+
+.form-menu{
+    padding: 10px;
+    margin: 10px;
+}
+
+.form-button{
+    border-radius: 20px;
+    padding: 10px 30px 10px;
+    margin: 10px;
+    background-color: #64ddbb;
+    border: none;
+}

@@ -1,0 +1,37 @@
+.property-conatiner{
+    padding: 10px 0 100px 0 ;
+    background-color: rgba(52, 73, 94, 0.97);
+}
+
+.property-conatiner h1{
+    color: white;
+    padding: 10px;
+}
+
+.contact-link{
+    list-style: none;
+    border-radius: 20px;
+    background-color: lightseagreen;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    padding: 10px 30px;
+    margin-left: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container{
+    padding: 30px;
+}
+
+@media screen and (max-width: 820px) {
+    
+    .property-conatiner{
+        display: flex;
+        padding:2rem;
+        flex-direction: column;
+    }
+   
+    
+    }

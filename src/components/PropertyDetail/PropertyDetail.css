@@ -1,0 +1,128 @@
+.propertie-details{
+    background-color:aliceblue;
+    width: 100%;
+    margin: 0 auto;
+}
+.propertie{
+    border-bottom: 2px solid;
+    padding: 50px;
+    background-color:aliceblue;
+}
+.row{
+  color: #AAAAAA;
+}
+
+.propertie-place{
+    list-style: none;
+    float: left;
+    width: 280px;
+    margin: 0px;
+}
+.propertie-place h1{
+    margin: 7px 5px 0 -115px;
+    padding: 12px 0 5px;
+    color: #34495e;
+}
+.propertie-place h8{
+    
+    color: #AAAAAA;
+}
+.propertie-address{
+    list-style: none;
+    float: right;
+    width: 280px;
+    margin: 0px ;
+ 
+}
+.propertie-address h6{
+    margin: 0 60px;
+    padding: 12px 5px;
+    color: #34495e;
+}
+.propertie-address h1{
+    color:#64ddbb;
+}
+
+.propertie-id{
+    padding: 20px;
+
+}
+.Gallary{
+    width: 100%;
+    display: grid;
+    height: auto;
+}
+.post{
+    display: grid;
+    margin: 20px;
+    width:350px;
+    height:300px;
+    float: right;
+    margin-top: -600px;
+    background-color: white;
+}
+
+.post h6{
+    padding: 27px 0 0 25px;
+    color: #34495e;
+}
+.button{
+    width: 100px;
+    height: 50px;
+    margin: -10px 10px 20px 25px; 
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+.post h5{
+    padding:0 24px 0;
+    color: #34495e;
+}
+
+.contact{
+    padding:0 60px;
+}
+
+.Discription{
+    border: 1px solid;
+    margin: 12px;
+    width:800px;
+    background-color: white;
+}
+.Features{
+    border: 1px solid;
+    margin: 12px;
+    width:800px;
+    background-color: white;
+}
+
+.Location{
+    border: 1px solid;
+    margin: 12px;
+    width:800px;
+    background-color: white;
+
+}
+.Reviews{
+    border: 1px solid;
+    margin: 12px;
+    width:800px;
+    background-color: white;
+}
+
+.Leave-a-Reviews{
+    border: 1px solid;
+    margin: 12px;
+    width:800px;
+    background-color: white;
+}
+
+.request{
+    display: grid;
+    margin: 20px;
+    width:350px;
+    height:300px;
+    float: right;
+    margin-top: -512px;
+    margin-left: 145px;
+    background-color: white;
+}
